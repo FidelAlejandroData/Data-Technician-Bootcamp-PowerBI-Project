@@ -1,67 +1,171 @@
-# Power BI Retail & Sales Analytics Dashboard
+# Power BI Data Analysis & Visualisation Project – Data Technician Bootcamp
 
-## Project Overview
-This Power BI project was completed as part of a Data Technician Bootcamp, focusing on transforming raw retail and sales data into meaningful, interactive business insights. The project demonstrates the end-to-end business intelligence workflow, from data preparation and modeling to dashboard design and data storytelling using Microsoft Power BI. Based on practical Power BI labs covering data cleaning, report design, DAX calculations, and semantic modeling, this project showcases core analytics skills developed during the bootcamp. 【1-7ffa14】
+In this repository, I showcase the Power BI reports, exercises and supporting materials I completed during the **Week 2 Power BI module of the Data Technician Bootcamp**.
 
-## Key Skills Demonstrated
+## 📊 Project Overview
 
-### Data Transformation & Cleaning
-- Imported and prepared retail and sales datasets using **Power Query**.
-- Cleaned, transformed, and standardized data to improve quality and consistency.
-- Managed data types, removed errors, and optimized datasets for reporting and analysis.
-- Applied data transformation techniques to create reliable analytical models. 【1-7ffa14】
+During this project, I used **Microsoft Power BI** to prepare, model, analyse and visualise structured data.
 
-### Data Modeling & DAX
-- Built and configured data models using fact and dimension table concepts.
-- Created **DAX calculated columns** and **measures** to derive key business metrics.
-- Developed custom calculations to support performance tracking and trend analysis.
-- Enhanced reporting capabilities through semantic model design. 【1-7ffa14】
+I worked through the complete Power BI workflow — from importing and cleaning data with **Power Query**, through data modelling and DAX calculations, to designing interactive reports and publishing completed work through **Power BI Service**.
 
-### Interactive Reporting
-- Developed dynamic dashboards with:
-  - Slicers
-  - Filters
-  - Drill-down functionality
-  - Interactive cross-filtering between visuals
-- Enabled users to explore sales performance across different categories, regions, and time periods.
-- Improved data accessibility through intuitive report navigation. 【1-7ffa14】
+## 🔄 My Power BI Workflow
 
-### Data Visualization
-Created a variety of visualizations to communicate insights effectively, including:
-- Bar Charts
-- Line Charts
-- Pie Charts
-- Geographic Maps
-- KPI Cards
-- Comparative and trend-based visuals
+```mermaid
+flowchart LR
+    A[📁 Raw Data] --> B[🧹 Power Query]
+    B --> C[🔗 Data Model]
+    C --> D[🧮 DAX]
+    D --> E[📊 Visualisations]
+    E --> F[🎛️ Filters & Slicers]
+    F --> G[📈 Interactive Report]
+    G --> H[☁️ Power BI Service]
+```
 
-These visualizations helped identify sales patterns, customer trends, regional performance, and business opportunities. 【1-7ffa14】
+## 🛠️ Skills I Demonstrated
 
-## Data Storytelling
-A key focus of this project was transforming complex retail and sales data into clear business narratives. Dashboard design emphasized:
-- Highlighting key performance indicators (KPIs)
-- Identifying sales trends over time
-- Comparing performance across products and locations
-- Supporting data-driven decision making
-- Presenting insights in a visually engaging and easy-to-understand format
+### 🧹 Data Cleaning & Transformation
 
-The project demonstrates how effective data visualization and storytelling can help stakeholders quickly understand performance and act on business insights.
+Using **Power Query**, I:
 
-## Tools & Technologies
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Interactive Dashboard Design
-- Business Intelligence & Analytics
+* Imported datasets
+* Cleaned raw information
+* Changed data types
+* Transformed columns
+* Prepared data for analysis
+* Loaded transformed data into Power BI
 
-## Learning Outcomes
-Through this project, I developed practical experience in:
-- Cleaning and transforming data using Power Query
-- Building professional Power BI reports and dashboards
-- Creating DAX measures and calculated columns
-- Designing interactive visual analytics solutions
-- Applying data storytelling techniques to retail and sales datasets
-- Delivering actionable business insights through data visualization
+### 🔗 Data Modelling
 
-This project reflects the analytical, technical, and reporting skills gained during the Data Technician Bootcamp and demonstrates the ability to turn raw data into impactful business intelligence solutions.
+I developed an understanding of:
+
+* Fact tables
+* Dimension tables
+* Table relationships
+* Semantic models
+* Structuring data for analysis
+
+### 🧮 DAX
+
+I used **Data Analysis Expressions (DAX)** to create:
+
+* Calculated columns
+* Measures
+* Business metrics
+* Reusable analytical calculations
+
+### 🎛️ Interactive Reporting
+
+I worked with:
+
+* Filters
+* Slicers
+* Interactive visualisations
+* Dynamic report exploration
+* Report formatting
+
+### 📊 Data Visualisation
+
+I created visualisations including:
+
+* 📊 Bar charts
+* 📈 Line charts
+* 🥧 Pie charts
+* 🗺️ Maps
+* 🔢 Card visuals
+* 💬 Q&A visuals
+
+## 📈 Key Project Activities
+
+### 🧹 Data Transformation with Power Query
+
+I used **Power Query** to clean and transform datasets before beginning my analysis.
+
+This taught me the importance of ensuring data is correctly structured, formatted and prepared before creating calculations or reports.
+
+### 🔗 Data Modelling
+
+I explored relationships between **fact and dimension tables** and learned how these relationships support structured analytical models.
+
+```mermaid
+flowchart TD
+    A[📅 Date Dimension] --> D[🧾 Fact Table]
+    B[👤 Customer Dimension] --> D
+    C[📦 Product Dimension] --> D
+    D --> E[📊 Measures & Analysis]
+```
+
+### 🧮 DAX Calculations
+
+I created DAX calculations to produce metrics that could be reused throughout my reports.
+
+This helped me understand the difference between displaying raw data and creating analytical measures that provide additional business context.
+
+### 📊 Interactive Report Development
+
+I designed Power BI reports containing multiple visualisations so users could investigate:
+
+* Trends
+* Performance differences
+* Category comparisons
+* Key metrics
+
+I used filters and slicers to make the reports interactive rather than static.
+
+### ☁️ Publishing to Power BI Service
+
+I published completed reports to **Power BI Service**, giving me experience with the full workflow from report development in Power BI Desktop to online publishing and sharing.
+
+## 📖 Data Storytelling
+
+Through this project, I learned how Power BI combines:
+
+**Data preparation + modelling + calculations + visualisation**
+
+to create reports that communicate information effectively.
+
+```mermaid
+flowchart LR
+    A[🧹 Clean Data]
+    --> B[🔗 Model Data]
+    --> C[🧮 Calculate Metrics]
+    --> D[📊 Visualise]
+    --> E[💡 Communicate Insight]
+```
+
+Rather than simply displaying individual charts, I focused on using reports to help users understand patterns, trends and important metrics.
+
+## 🎯 Learning Outcomes
+
+By completing this project, I developed practical experience in:
+
+* Power BI Desktop
+* Power Query
+* Data cleaning
+* Data transformation
+* Data modelling
+* Fact and dimension tables
+* DAX
+* Calculated columns
+* Measures
+* Filters
+* Slicers
+* Interactive reports
+* Data visualisation
+* Power BI Service
+
+## 💻 Tools I Used
+
+`Microsoft Power BI` `Power Query` `DAX` `Power BI Service` `Data Modelling` `Interactive Reports` `Data Visualisation`
+
+## 📁 Project Contents
+
+```text
+📦 Power-BI-Project
+ ┣ 📊 Power BI reports
+ ┣ 🧹 Power Query exercises
+ ┣ 🧮 DAX exercises
+ ┣ 🔗 Data modelling exercises
+ ┣ 🖼️ Report screenshots
+ ┣ 📁 Supporting datasets
+ ┗ 📄 README.md
+```
