@@ -155,6 +155,14 @@ By completing this project, I developed practical experience in:
 * Data visualisation
 * Power BI Service
 
+## 🏅 Related Certifications
+
+To further develop the skills demonstrated in this project, I completed:
+
+* 🎓 [**Data Visualization in Power BI – DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab76af7e16f8b2de682ef98100e59d1bd3d2351b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
+This course complemented my practical experience in report design, visualisation selection and communicating insights using Microsoft Power BI.
+
 ## 💻 Tools I Used
 
 `Microsoft Power BI` `Power Query` `DAX` `Power BI Service` `Data Modelling` `Interactive Reports` `Data Visualisation`
