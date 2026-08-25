@@ -163,8 +163,18 @@ By completing this project, I developed practical experience in:
 📦 Power-BI-Project
  ┣ 📊 Power BI reports
  ┣ 🧹 Power Query exercises
- ┣ 🧮 DAX exercises
+ ┃ ┣ 📥 01 - Get data in Power BI
+ ┃ ┗ 🧹 02 - Clean, transform, and load data in Power BI
  ┣ 🔗 Data modelling exercises
+ ┃ ┗ 🔗 03 - Configure a semantic model in Power BI
+ ┣ 🧮 DAX exercises
+ ┃ ┣ 🧮 04 - Create DAX calculations in semantic models
+ ┃ ┣ 🔍 05 - Modify DAX filter context in Power BI
+ ┃ ┗ 📅 06 - Use DAX time intelligence functions in Power BI
+ ┣ 📊 Visual calculations
+ ┃ ┗ 📊 07 - Create visual calculations in Power BI Desktop
+ ┣ 🖼️ Report design
+ ┃ ┗ 🖼️ 08 - Design Power BI reports
  ┣ 🖼️ Report screenshots
  ┣ 📁 Supporting datasets
  ┗ 📄 README.md
