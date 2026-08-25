@@ -161,7 +161,7 @@ By completing this project, I developed practical experience in:
 
 ```text
 📦 Power-BI-Project
- ┣ 📊 Power BI reports
+ ┣ 📊 Power BI workbook
  ┣ 🧹 Power Query exercises
  ┃ ┣ 📥 01 - Get data in Power BI
  ┃ ┗ 🧹 02 - Clean, transform, and load data in Power BI
@@ -175,7 +175,5 @@ By completing this project, I developed practical experience in:
  ┃ ┗ 📊 07 - Create visual calculations in Power BI Desktop
  ┣ 🖼️ Report design
  ┃ ┗ 🖼️ 08 - Design Power BI reports
- ┣ 🖼️ Report screenshots
- ┣ 📁 Supporting datasets
  ┗ 📄 README.md
 ```
