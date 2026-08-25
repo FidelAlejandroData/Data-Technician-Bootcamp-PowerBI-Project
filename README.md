@@ -111,6 +111,8 @@ I designed Power BI reports containing multiple visualisations so users could in
 
 I used filters and slicers to make the reports interactive rather than static.
 
+<img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/dca9cebf-c30e-4bf1-a69f-7fcf227a7b95" />
+
 ### ☁️ Publishing to Power BI Service
 
 I published completed reports to **Power BI Service**, giving me experience with the full workflow from report development in Power BI Desktop to online publishing and sharing.
