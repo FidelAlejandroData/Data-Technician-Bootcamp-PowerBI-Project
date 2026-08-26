@@ -186,6 +186,6 @@ This course complemented my practical experience in report design, visualisation
  ┣ 🖼️ Report design
  ┃ ┗ 🖼️ 08 - Design Power BI reports
  ┣ 📁 certificates
- ┃ ┗ 📄 Data Visualization in Power BI.pdf
+ ┃ ┗ 📄 DataCamp Certificate - Data Visualization in Power BI.pdf
  ┗ 📄 README.md
 ```
